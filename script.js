@@ -16,7 +16,7 @@ let domain = $(this[0]).val();
 //alert(domain);
 
 $.ajax({
-url: "api.php",
+url: "https://sarjsk991.000webhostapp.com/domain-finder-api/api.php",
 type: "get",
 data: {domain: domain},
 success: function(data){
