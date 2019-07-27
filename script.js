@@ -22,7 +22,7 @@ data: {domain: domain},
 success: function(data){
 $(".result-loading").hide();
 // data = JSON.parse(data);
-console.log(data["msg"]);
+// console.log(data["msg"]);
 $('#result').show();
 $("#result").removeClass("alert-success alert-danger").addClass("alert-"+data["status"]);
 
