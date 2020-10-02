@@ -1,3 +1,3 @@
 # domain-finder
 
-live demo: https://programworld999.github.io/domain-finder/
+live demo: https://ssadev.github.io/domain-finder/
